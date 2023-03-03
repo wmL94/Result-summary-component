@@ -183,3 +183,15 @@ p {
   margin: 15px 0px 0px 0px;
   padding: 15px 100px;
 }
+
+.continue-button:hover {
+  border-radius: 30px;
+  border: none;
+  background: linear-gradient(180deg, hsla(252, 100%, 67%, 1) 0%, hsla(241, 81%, 54%, 1) 100%);
+  color: white;
+  font-weight: 500;
+  font-size: 17px;
+  margin: 15px 0px 0px 0px;
+  padding: 15px 100px;
+  cursor: pointer;
+}
