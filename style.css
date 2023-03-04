@@ -51,8 +51,8 @@ p {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  height: 175px;
+  width: 175px;
   background: linear-gradient(180deg, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
 }
 
@@ -69,11 +69,13 @@ p {
 .great-text {
   display: flex;
   justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 15px;
 }
 
 .great-text p {
-  font-size: 30px;
-  font-weight: 700;
+  font-size: 27px;
+  font-weight: 500;
   color: white;
 }
 
